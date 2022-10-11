@@ -3,6 +3,8 @@ Lab 2 - Algorithms
 Due Date: Oct 11, 11:59 PM
 Total Marks:20
 Available from:Oct 09, 9:00 AM
+
+
 Statement Problem No 1:
 PayMoney processes thousands of transactions daily amounting to crores of Rupees. They also have a daily target that they must achieve. Show a list of transactions done by PayMoney achieves the same. If the target is not achievable, then display the target is not achieved.
 DriverClass for this Problem Statement No 1 is placed inside java package com.gl.paymoney.main
