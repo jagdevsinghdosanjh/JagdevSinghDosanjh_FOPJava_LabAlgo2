@@ -10,7 +10,7 @@ PayMoney processes thousands of transactions daily amounting to crores of Rupees
 DriverClass for this Problem Statement No 1 is placed inside java package com.gl.paymoney.main
 
 
-Statement Problem No 2:You are a travelar and traveling to acountry where the currency denomination are unknown and as you travel you get to known about the denomination in random order. You want to make a payment of amount x, in such a way that the higher denomination is used to make exact payment.
+Statement Problem No 2: You are a travelar and traveling to acountry where the currency denomination are unknown and as you travel you get to known about the denomination in random order. You want to make a payment of amount x, in such a way that the higher denomination is used to make exact payment.
 DriverClass for this Problem Statement No 2 is placed inside java package com.gl.notescounter.mai
 One more File named ArrayUtil (bearing mergeSort Logic needed for Denomination Array sorting and merging) is placed inside java package com.gl.notescounter.util
 
